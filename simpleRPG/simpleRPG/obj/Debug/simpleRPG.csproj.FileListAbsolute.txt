@@ -1,0 +1,10 @@
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\bin\Debug\simpleRPG.exe.config
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\bin\Debug\simpleRPG.exe
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\bin\Debug\simpleRPG.pdb
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\obj\Debug\simpleRPG.csprojAssemblyReference.cache
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\obj\Debug\simpleRPG.Form1.resources
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\obj\Debug\simpleRPG.Properties.Resources.resources
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\obj\Debug\simpleRPG.csproj.GenerateResource.cache
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\obj\Debug\simpleRPG.csproj.CoreCompileInputs.cache
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\obj\Debug\simpleRPG.exe
+C:\Users\Filip Orzechowski\source\repos\simpleRPG\simpleRPG\obj\Debug\simpleRPG.pdb
